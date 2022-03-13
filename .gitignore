@@ -1,0 +1,3 @@
+# Project exclude paths
+/Chapter 9/request/node_modules/
+.idea
